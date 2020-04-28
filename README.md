@@ -1,8 +1,11 @@
-# formvalidation
+# Proyecto base App con Estilo de diseño BLOC en Flutter
 
-A new Flutter project.
+Proyecto base donde se puede evidenciar:
+- Conectividad a un API-Rest
+- Chequeo y validación de formularios
+- Aplicando estilo de disño BLOC para la conectividad entre widget
 
-## Getting Started
+## Si deseas aprender Flutter visita el apartado Getting Started
 
 This project is a starting point for a Flutter application.
 

@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Smart Tutor'),
+        title: Text('SENTU Studios Settings'),
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.center,

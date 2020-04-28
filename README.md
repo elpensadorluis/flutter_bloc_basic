@@ -1,9 +1,10 @@
-# Proyecto base App con Estilo de diseño BLOC en Flutter
+# Proyecto base App con Estilo de diseño BLoC en Flutter
 
 Proyecto base donde se puede evidenciar:
-- Conectividad a un API-Rest
+- Conectividad a un API-Rest (FireBase)
 - Chequeo y validación de formularios
-- Aplicando estilo de disño BLOC para la conectividad entre widget
+- Manejo de Errores
+- Aplicando patrón de disño BLoC para la conectividad entre widget
 
 ## Si deseas aprender Flutter visita el apartado Getting Started
 

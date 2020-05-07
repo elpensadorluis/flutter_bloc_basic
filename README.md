@@ -1,5 +1,7 @@
 # Proyecto base App con Estilo de diseño BLoC en Flutter
 
+![](login.png)
+
 Proyecto base donde se puede evidenciar:
 - Conectividad a un API-Rest (FireBase)
 - Chequeo y validación de formularios
